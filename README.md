@@ -48,3 +48,5 @@ Until *Archive file* is made available in the plugin directory, follow the steps
 - [Report bugs](https://github.com/greetclammy/archive-file/issues)
 - [Request features](https://github.com/greetclammy/archive-file/issues)
 - [Contribute improvements](https://github.com/greetclammy/archive-file/pulls)
+- Discuss on:
+  - [GitHub Discussions](https://github.com/greetclammy/archive-file/discussions)
