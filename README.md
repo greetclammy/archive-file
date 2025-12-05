@@ -35,6 +35,14 @@ Until *Archive file* is made available in the plugin directory, follow the steps
 6. Check *Enable after installing the plugin*.
 7. Press *Add Plugin*.
 
+### Manual
+
+1. Download `main.js`, `manifest.json`, and `styles.css` from the [latest release](https://github.com/greetclammy/archive-file/releases/latest).
+2. Create folder `archive-file` in your vault's `.obsidian/plugins` directory.
+3. Copy the downloaded files into the folder.
+4. Reload Obsidian.
+5. Enable *Archive File* in Settings → Community plugins.
+
 ## ⭐️ Support
 
 - [Report bugs](https://github.com/greetclammy/archive-file/issues)
