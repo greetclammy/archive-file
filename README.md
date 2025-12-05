@@ -23,7 +23,7 @@ Add command to move file to a specified archive folder.
 >
 > **Ensure your files are regularly [backed up](https://help.obsidian.md/backup).**
 
-Until *Archive file* is made available in the plugin directory, follow the steps below to install it.
+Until *Archive File* is [made available](https://github.com/obsidianmd/obsidian-releases/pull/8835) in the plugin directory, follow the steps below to install it.
 
 ### BRAT (recommended)
 
