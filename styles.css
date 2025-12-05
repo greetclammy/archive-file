@@ -1,0 +1,38 @@
+.archive-file-settings .archive-file-settings-last {
+  border-bottom: none;
+}
+
+.archive-file-settings .archive-file-hidden {
+  display: none;
+}
+
+.archive-file-settings .archive-file-sub-settings {
+  margin-inline-start: 20px;
+  padding-left: 1em;
+  position: relative;
+}
+
+.archive-file-settings .archive-file-sub-settings::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 10px;
+  width: 1px;
+  background-color: var(--background-modifier-border);
+}
+
+.archive-file-settings .archive-file-feedback-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
+  padding: 4px 0;
+}
+
+.archive-file-settings .archive-file-feedback-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}

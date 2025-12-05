@@ -1,0 +1,9 @@
+{
+  "id": "archive-file",
+  "name": "Archive File",
+  "version": "0.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "Move the current file to an archive folder.",
+  "author": "",
+  "isDesktopOnly": false
+}
