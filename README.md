@@ -1,27 +1,22 @@
-# Archive file
+# Archive File
 
-Obsidian plugin to move files to an archive folder.
+Add command to move file to a specified archive folder.
 
-## Features
+## ⚡️ Features
 
-- Move files to a configurable archive folder
-- Timestamp support in folder path (e.g., `Archive/{YYYY}/{MM}`)
-- Strip specified tags from properties when archiving
-- Optional notification after archiving
+- Move files to a configurable archive folder.
+- Timestamp support in folder path (e.g., `Archive/{YYYY}/{MM}`).
+- Strip specified tags from properties when archiving.
+- Optional notification after archiving.
 
-## Commands
-
-- **Archive file** — move the active file to the archive folder
-
-## Access
+## ⚙️ Commands
 
 - Command palette
 - File context menu
-- Multi-file context menu
 - Ribbon icon
 - Vault search results menu
 
-## Install
+## ✅ Install
 
 > [!IMPORTANT]
 > The plugin is in active development — things can break, or change drastically between releases.
@@ -40,7 +35,7 @@ Until *Archive file* is made available in the plugin directory, follow the steps
 6. Check *Enable after installing the plugin*.
 7. Press *Add Plugin*.
 
-## Support
+## ⭐️ Support
 
 - [Report bugs](https://github.com/greetclammy/archive-file/issues)
 - [Request features](https://github.com/greetclammy/archive-file/issues)
