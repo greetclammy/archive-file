@@ -2,19 +2,7 @@
 
 Add command to move file to a specified archive folder.
 
-## ⚡️ Features
-
-- Move files to a configurable archive folder.
-- Timestamp support in folder path (e.g., `Archive/{YYYY}/{MM}`).
-- Strip specified tags from properties when archiving.
-- Optional notification after archiving.
-
-## ⚙️ Commands
-
-- Command palette
-- File context menu
-- Ribbon icon
-- Vault search results menu
+<img src="https://github.com/user-attachments/assets/a00e1a8a-3e39-4637-8a1e-bcca88d36e9a" />
 
 ## ✅ Install
 
