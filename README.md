@@ -35,6 +35,3 @@ Until *Archive File* is [made available](https://github.com/obsidianmd/obsidian-
 
 - [Report bugs](https://github.com/greetclammy/archive-file/issues)
 - [Request features](https://github.com/greetclammy/archive-file/issues)
-- [Contribute improvements](https://github.com/greetclammy/archive-file/pulls)
-- Discuss on:
-  - [GitHub Discussions](https://github.com/greetclammy/archive-file/discussions)
