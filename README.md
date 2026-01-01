@@ -4,7 +4,7 @@ Add command to move file to a specified archive folder.
 
 <img src="https://github.com/user-attachments/assets/a00e1a8a-3e39-4637-8a1e-bcca88d36e9a" />
 
-## ✅ Install
+## Install
 
 > [!IMPORTANT]
 > The plugin is in active development — things can break, or change drastically between releases.
@@ -31,7 +31,7 @@ Until *Archive File* is [made available](https://github.com/obsidianmd/obsidian-
 4. Reload Obsidian.
 5. Enable *Archive File* in Settings → Community plugins.
 
-## ⭐️ Support
+## Support
 
 - [Report bugs](https://github.com/greetclammy/archive-file/issues)
 - [Request features](https://github.com/greetclammy/archive-file/issues)
